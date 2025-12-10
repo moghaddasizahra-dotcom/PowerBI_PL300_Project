@@ -16,3 +16,17 @@ https://app.fabric.microsoft.com/links/JUmECzyKys?ctid=3ea7c128-c601-4479-a003-e
 
 Lab12: 
 https://app.powerbi.com/view?r=eyJrIjoiNTM0YWJmYzUtNGUxZi00NGQ4LTkxMjktNDVhYzFmNDFlMDBiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
+Lab9:
+https://app.powerbi.com/view?r=eyJrIjoiMDczZDZjMzQtOWRkMS00NDgzLWE3MTktYjBkNjQxMjIxZWZmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9https://app.powerbi.com/view?r=eyJrIjoiMDczZDZjMzQtOWRkMS00NDgzLWE3MTktYjBkNjQxMjIxZWZmIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
+Lab8:
+https://app.powerbi.com/view?r=eyJrIjoiN2JiMzY2N2UtMWM3Yy00YzdjLTljN2YtODk0MmFiMmVjOWJkIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
+Lab7:
+https://app.powerbi.com/view?r=eyJrIjoiN2JlYmY1NjAtZTNkNy00ZjY4LWI1NTMtOTlmOTdiZTkxMzM2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
+https://app.fabric.microsoft.com/reportEmbed?reportId=ab241120-3e51-4b2d-b30c-b91282a35d53&autoAuth=true&ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb
+
+Lab6:
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMzNkNjNhYzctMThiNS00MDI3LTg0ZjUtYmNmYjNiMTljZWIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
