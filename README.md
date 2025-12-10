@@ -10,3 +10,9 @@ https://app.fabric.microsoft.com/links/JUmECzyKys?ctid=3ea7c128-c601-4479-a003-e
 
 
 https://app.fabric.microsoft.com/links/JUmECzyKys?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare
+
+
+
+
+Lab12: 
+https://app.powerbi.com/view?r=eyJrIjoiNTM0YWJmYzUtNGUxZi00NGQ4LTkxMjktNDVhYzFmNDFlMDBiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
